@@ -1,0 +1,207 @@
+
+inorder100 > output.txt
+Bubble Sort----------
+cmp: 4950
+exch: 0
+pass: 99
+Time Elapsed: 0.001 seconds
+
+Shell Sort-----------
+k   pass   cmp   exch
+---------------------
+40   1   60   0   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+13   1   87   0   
+4   1   96   0   
+1   1   99   0   
+---------------------
+Total: 4 342 58
+Time Elapsed: 0.000 seconds
+
+inorder1000 > output.txt
+Bubble Sort----------
+cmp: 499500
+exch: 0
+pass: 999
+Time Elapsed: 0.053 seconds
+
+Shell Sort-----------
+k   pass   cmp   exch
+---------------------
+364   1   636   0   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+121   1   879   0   
+40   1   960   0   
+13   1   987   0   
+4   1   996   0   
+1   1   999   0   
+---------------------
+Total: 6 5457 543
+Time Elapsed: 0.009 seconds
+
+inorder10000 > output.txt
+Bubble Sort----------
+cmp: 49995000
+exch: 0
+pass: 9999
+Time Elapsed: 1.156 seconds
+
+Shell Sort-----------
+k   pass   cmp   exch
+---------------------
+9841   1   159   0   
+3280   1   6720   0   
+1093   1   8907   0   
+364   1   9636   0   
+121   1   9879   0   
+40   1   9960   0   
+13   1   9987   0   
+4   1   9996   0   
+1   1   9999   0   
+---------------------
+Total: 9 75243 14757
+Time Elapsed: 0.017 seconds
+
+random100 > output.txt
+Bubble Sort----------
+cmp: 4950
+exch: 2736
+pass: 99
+Time Elapsed: 0.003 seconds
+
+Shell Sort-----------
+k   pass   cmp   exch
+---------------------
+40   3   180   41   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+13   6   522   88   
+4   10   960   155   
+1   12   1188   182   
+---------------------
+Total: 31 2850 524
+Time Elapsed: 0.001 seconds
+
+random1000 > output.txt
+Bubble Sort----------
+cmp: 499500
+exch: 255291
+pass: 999
+Time Elapsed: 0.024 seconds
+
+Shell Sort-----------
+k   pass   cmp   exch
+---------------------
+364   3   1908   473   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+121   8   7032   889   
+40   9   8640   1342   
+13   14   13818   2004   
+4   19   18924   2534   
+1   11   10989   1589   
+---------------------
+Total: 64 61311 9374
+Time Elapsed: 0.009 seconds
+
+random10000 > output.txt
+Bubble Sort----------
+cmp: 49995000
+exch: 25088011
+pass: 9999
+Time Elapsed: 1.353 seconds
+
+Shell Sort-----------
+k   pass   cmp   exch
+---------------------
+9841   2   318   82   
+3280   4   26880   4989   
+1093   9   80163   9739   
+364   13   125268   14230   
+121   17   167943   20194   
+40   23   229080   25505   
+13   22   219714   31671   
+4   19   189924   26414   
+1   16   159984   17933   
+---------------------
+Total: 125 1199274 165514
+Time Elapsed: 0.032 seconds
+
+reverse100 > output.txt
+Bubble Sort----------
+cmp: 4950
+exch: 4950
+pass: 99
+Time Elapsed: 0.000 seconds
+
+Shell Sort-----------
+k   pass   cmp   exch
+---------------------
+40   3   180   80   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+13   2   174   35   
+4   2   192   40   
+1   3   297   75   
+---------------------
+Total: 10 843 288
+Time Elapsed: 0.000 seconds
+
+reverse1000 > output.txt
+Bubble Sort----------
+cmp: 499500
+exch: 499500
+pass: 999
+Time Elapsed: 0.004 seconds
+
+Shell Sort-----------
+k   pass   cmp   exch
+---------------------
+364   3   1908   908   
+0   0   0   0   
+0   0   0   0   
+0   0   0   0   
+121   3   2637   543   
+40   3   2880   500   
+13   3   2961   485   
+4   3   2988   632   
+1   4   3996   852   
+---------------------
+Total: 19 17370 4463
+Time Elapsed: 0.000 seconds
+
+reverse10000 > output.txt
+Bubble Sort----------
+cmp: 49995000
+exch: 49995000
+pass: 9999
+Time Elapsed: 0.546 seconds
+
+Shell Sort-----------
+k   pass   cmp   exch
+---------------------
+9841   2   318   159   
+3280   3   20160   9524   
+1093   3   26721   8895   
+364   3   28908   7020   
+121   2   19758   3345   
+40   3   29880   4340   
+13   3   29961   7187   
+4   3   29988   4530   
+1   4   39996   8704   
+---------------------
+Total: 26 225690 68461
+Time Elapsed: 0.011 seconds
